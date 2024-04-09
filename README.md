@@ -1,5 +1,13 @@
 ## Hello :wave:
 
+### You most likely followed the link at the end of my slide set! Nice to see you and thanks for watching my talk!
+
+<p align="center" style="font-family:'Courier New'">
+    Here you will find the slide set to the talk you watched and also a way to contact me, in case you feel like reaching out.
+Thanks again for listening in and have a lovely day!
+</p>
+
+----
 
 <p align="center" style="font-family:'Courier New'">
     I'm Moritz, a senior software developer with a main forcus on Java, currently working at <a href="http://openvalue.eu/">OpenValue</a>.
